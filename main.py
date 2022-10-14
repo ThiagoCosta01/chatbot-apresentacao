@@ -2,7 +2,7 @@ import os
 
 def escolha(resposta):
     if resposta == 1:
-        print(f"Me chamo Thiago Lucas. Tenho 20 anos.{os.linesep}")
+        print(f"Me chamo Thiago Lucas. Tenho 21 anos.{os.linesep}")
     elif resposta == 2:
         print(f"Sou estudande de Análise e desenvolvimento de sistemas, pela Uninter.{os.linesep}")
     elif resposta == 3:
